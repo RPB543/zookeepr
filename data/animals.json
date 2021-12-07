@@ -117,6 +117,28 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "jack",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "jill",
+      "species": "cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
