@@ -101,24 +101,6 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
       "name": "jack",
       "species": "dog",
       "diet": "carnivore",
@@ -127,18 +109,7 @@
         "loving",
         "goofy"
       ],
-      "id": "12"
-    },
-    {
-      "name": "jill",
-      "species": "cat",
-      "diet": "piscivore",
-      "personalityTraits": [
-        "zany",
-        "anxious",
-        "loving"
-      ],
-      "id": "13"
+      "id": "10"
     }
   ]
 }
